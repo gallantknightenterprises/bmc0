@@ -23,6 +23,8 @@ You will find the following maps in this pack:
 * 007B - Desert Tomb
 * 007F - Evil Temple of a Demon Worshiping Cult
 
+If you have any questions or comments please join our Discord server at: https://discord.gg/Jf4E7nw7Ps
+
 Start your adventure today!
 
 Cartography by Justin Andrew Mason
