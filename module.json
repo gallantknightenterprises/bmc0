@@ -24,8 +24,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/gallantknightenterprises/bmc0/-/raw/master/module.json",
-  "download": "https://github.com/gallantknightenterprises/bmc0/-/archive/master/bmc0.zip",
+  "manifest": "https://github.com/gallantknightenterprises/bmc0/blob/main/module.json",
+  "download": "https://github.com/gallantknightenterprises/bmc0/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
