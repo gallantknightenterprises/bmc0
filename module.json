@@ -13,12 +13,18 @@
 	"packs":
 	[
 		{
-			"name": "module-creatures",
+			"name": "big-map-collection-0",
 			"label": "Big Map Collection 0",
 			"path": "./packs/big-map-collection-0.db",
 			"entity": "Scene",
-			"private": false,
 			"type": "Scene"
+		},
+		{
+			"name": "big-map-collection-0-read-me",
+			"label": "Big Map Collection 0",
+			"path": "./packs/big-map-collection-0-read-me.db",
+			"entity": "Journal Entries",
+			"type": "Journal Entries"
 		}
 	],
 	"system": [],
