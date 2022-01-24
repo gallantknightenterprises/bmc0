@@ -2,7 +2,7 @@
 	"name": "bmc0",
 	"title": "Big Map Collection 0 - Sampler",
 	"description": "14 scenes ready to use featuring maps from the talented mind of Justin Andrew Mason",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"author": "Daniel Gallant",
 	"minimumCoreVersion": "0.8.9",
 	"compatibleCoreVersion": "9",
@@ -15,7 +15,7 @@
 		{
 			"name": "big-map-collection-0",
 			"label": "Big Map Collection 0",
-			"path": "./packs/big-map-collection-0.db",
+			"path": "./packs/big-map-collection-0-scenes.db",
 			"entity": "Scene",
 			"type": "Scene"
 		},
@@ -28,7 +28,14 @@
 		}
 	],
 	"system": [],
-	"dependencies": [],
+	"dependencies": [
+		{
+			"name": "compendium-folders"
+		},
+		{
+			"name": "lib-wrapper"
+		}
+	],
 	"socket": false,
 	"manifest": "https://raw.githubusercontent.com/gallantknightenterprises/bmc0/main/module.json",	
 	"download": "https://github.com/gallantknightenterprises/bmc0/archive/refs/heads/main.zip",
