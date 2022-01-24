@@ -1,5 +1,7 @@
 # Big Map Collection 0 - Sampler
 
+NOTE: This module requires compendium folders and lib-wrapper modules.
+
 This amazing collection of maps from the talented mind of Justin Andrew Mason will inspire you for your next adventure. This includes a variety of maps including dungeons, buildings, and caves ready for you to populate, and usable with any game system! 
 
 Will they be the lair of you your players' foulest foes or their new greatest allies? You decide!
