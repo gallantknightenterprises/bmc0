@@ -30,11 +30,9 @@
 	"system": [],
 	"dependencies": [
 		{
-			"type": "module",
 			"name": "compendium-folders"
 		},
 		{
-			"type": "module",
 			"name": "lib-wrapper"
 	],
 	"socket": false,
