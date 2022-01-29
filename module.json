@@ -31,9 +31,11 @@
 	"dependencies": [
 		{
 			"type": "module",
-			"name": "compendium-folders",
-			"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
-		}
+			"name": "compendium-folders"
+		},
+		{
+			"type": "module",
+			"name": "lib-wrapper"
 	],
 	"socket": false,
 	"manifest": "https://raw.githubusercontent.com/gallantknightenterprises/bmc0/main/module.json",	
