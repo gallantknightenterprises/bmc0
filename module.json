@@ -14,7 +14,7 @@
 	[
 		{
 			"name": "big-map-collection-0",
-			"label": "Big Map Collection 0 - Scenes",
+			"label": "Big Map Collection 0",
 			"path": "./packs/big-map-collection-0.db",
 			"entity": "Scene",
 			"type": "Scene"
