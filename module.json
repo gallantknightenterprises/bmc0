@@ -2,7 +2,7 @@
 	"name": "bmc0",
 	"title": "Big Map Collection 0 - Sampler",
 	"description": "14 scenes ready to use featuring maps from the talented mind of Justin Andrew Mason",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"author": "Daniel Gallant",
 	"minimumCoreVersion": "0.8.9",
 	"compatibleCoreVersion": "9",
@@ -18,13 +18,6 @@
 			"path": "./packs/big-map-collection-0.db",
 			"entity": "Scene",
 			"type": "Scene"
-		},
-		{
-			"name": "big-map-collection-0-read-me",
-			"label": "Big Map Collection 0 - Read Me!",
-			"path": "./packs/big-map-collection-0-read-me.db",
-			"entity": "JournalEntry",
-			"type": "JournalEntry"
 		}
 	],
 	"system": [],
