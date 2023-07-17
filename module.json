@@ -30,8 +30,6 @@
 			"type": "JournalEntry"
 		}
 	],
-	"system": [],
-	"dependencies": [],
 	"socket": false,
 	"manifest": "https://raw.githubusercontent.com/gallantknightenterprises/bmc0/main/module.json",	
 	"download": "https://github.com/gallantknightenterprises/bmc0/archive/refs/heads/main.zip",
