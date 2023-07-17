@@ -4,7 +4,7 @@
 	"description": "14 scenes ready to use featuring maps from the talented mind of Justin Andrew Mason",
 	"version": "1.0.14",
 	"author": "Daniel Gallant",
-	"minimumCoreVersion": "0.8.9",
+	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "11",
 	"url": "https://github.com/gallantknightenterprises/bmc0",
 	"scripts": [],
